@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm João Paulo Sebastião, a final-year software engineering student in my final year at EIL Côte d’Opale. I combine a solid academic foundation with hands-on experience in fullstack development and AI .<br><br>My academic journey and internships have allowed me to work on diverse projects — from developing interactive web platforms and optimizing backend systems, to integrating AI models into real-world solutions. I enjoy bridging the gap between software engineering and machine learning to create impactful technologies.
+I'm João Paulo Sebastião, a software engineering student. I combine a solid academic foundation with hands-on experience in fullstack development and AI .<br><br>My academic journey and internships have allowed me to work on diverse projects — from developing interactive web platforms and optimizing backend systems, to integrating AI models into real-world solutions. I enjoy bridging the gap between software engineering and machine learning to create impactful technologies.
 
 
 ## 🌐 Socials:
